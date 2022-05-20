@@ -1,0 +1,75 @@
+.whatsappweb{
+    padding: 0;
+    margin: 0;
+}
+.whatsapp-icon{
+    background-color: green;
+    height: 240px;
+    color: white;
+    padding: 10px;
+}
+.whatsapp-icon i{
+    padding-left: 165px;
+    padding-top: 20px;
+    font-size: 40px;
+}
+.whatsapp-icon p{
+    display: inline;
+    position: relative;
+    bottom: 5px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.main{
+    background-color: whitesmoke;
+    height: 500px;
+    margin-left: 280px;
+    margin-right: 280px;
+    display: block;
+    position: relative;
+    bottom: 145px;
+    display: flex;
+}
+.whatsapp-information h1{
+    font-size: 35px;
+    font-weight: lighter;
+    padding: 20px 80px;
+    padding-top: 20px;
+    color: black;
+}
+.whatsapp-information p{
+    font-size: 26px;
+    padding-left: 80px;
+    font-weight: lighter;
+}
+.whatsapp-information h6{
+    font-size: 17px;
+    padding-left: 80px;
+    padding-top: 55px;
+    color: green;
+    font-weight: lighter;
+}
+.whatsapp-image{
+    background-color: beige;
+    margin-left: 280px;
+    margin-right: 280px;
+    height: 350px;
+    display: block;
+    position: relative;
+    bottom: 145px;
+}
+.whatsapp-image .video{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 35px;
+    border: none;
+    outline: none;
+}
+.whatsapp-QR img{
+  height: 330px;
+  width: 360px;
+  padding: 20px;
+}
